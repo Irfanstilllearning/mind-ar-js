@@ -1,4 +1,4 @@
-=MIND AR JS=
+MIND AR JS
 Step
 - Clone repository
 - Run Python http server
